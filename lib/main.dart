@@ -9,6 +9,8 @@ import 'package:get_storage/get_storage.dart';
 import 'utils/routes/app_pages.dart';
 
 
+//git
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await GetStorage.init();
